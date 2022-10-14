@@ -4,7 +4,7 @@ Hello! This is a hiring project for our [Framework Specialist position](https://
 
 ## The Job
 
-Here's Fly.io's not-so-secret evil plan. We make it easy to run full-stack apps --- any app, in any framework --- close to your users. We're a simple and powerful way to run any application, with modern dev UX, advanced Postgres deployments with replication, and app scaling knobs that don't require you to learn Terraform to use. But we're especially shiny for frameworks that benefit from geographic distribution, like Elixir's [LiveView](https://fly.io/blog/how-we-got-to-liveview/), [Laravel's Livewire](https://laravel-livewire.com/) and Rails's [Hotwire](https://hotwired.dev/). We want those kinds of frameworks to succeed, because the better they do, the more valuable we are.
+Here's Fly.io's not-so-secret evil plan. We make it easy to run full-stack apps --- any app, in any framework --- close to your users. We're a simple and powerful way to run any application, with modern dev UX, advanced Postgres deployments with replication, and app scaling knobs that don't require you to learn Terraform to use. But we're especially shiny for frameworks that benefit from geographic distribution, like [Phoenix LiveView](https://fly.io/blog/how-we-got-to-liveview/), [Laravel's Livewire](https://laravel-livewire.com/) and Rails's [Hotwire](https://hotwired.dev/). We want those kinds of frameworks to succeed, because the better they do, the more valuable we are.
 
 We want Fly.io to be the best place on the Internet to run apps for your framework. If you're enthusiastic about your framework and helping other people, we need your help.
 
